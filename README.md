@@ -36,16 +36,16 @@ We're still cooking it. Stay tuned.
 
 ### **Contributors:**
 
-| Name        | Role               | GitHub                            |
-|-------------|--------------------|-----------------------------------|
-| Desmond      | Technical Director          | [@...](https://github.com/...) |
-| Yan Mei          | Deputy Technical Director      | [@...](https://github.com/...) |
-| Fukutaro  | President        | [@...](https://github.com/...) |
-| Michelle  | Vice President        | [@...](https://github.com/...) |
+| Name        | Role               | GitHub                                           |
+|-------------|--------------------|--------------------------------------------------|
+| Desmond      | Technical Director          | [@desraymondz](https://github.com/desraymondz) |
+| Yan Mei          | Deputy Technical Director      | [@yxnmei](https://github.com/yxnmei) |
+| Fukutaro  | President        | [@fukutarosie](https://github.com/fukutarosie) |
+| Michelle  | Vice President        | [@Chelle07](https://github.com/Chelle07) |
 | Reynaldi  | Secretary       | [@...](https://github.com/...) |                                                  
-| Winston  | Partnerships & Innovations Director        | [@...](https://github.com/...) |
+| Winston  | Partnerships & Innovations Director        | [@winstonfaustin](https://github.com/winstonfaustin) |
 | Somya  | Deputy Partnerships & Innovations Director      | [@...](https://github.com/...) | 
-| Vaness  | Marketing Director      | [@...](https://github.com/...) |                                                  
+| Vanness  | Marketing Director      | [@Vanness1900](https://github.com/Vanness1900) |                                                  
 
 > _"At ITC, we don’t just learn tech — we grow, lead, and build together."_
 
