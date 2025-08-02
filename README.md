@@ -42,7 +42,7 @@ We're still cooking it. Stay tuned.
 | Yan Mei          | Deputy Technical Director      | [@yxnmei](https://github.com/yxnmei) |
 | Fukutaro  | President        | [@fukutarosie](https://github.com/fukutarosie) |
 | Michelle  | Vice President        | [@Chelle07](https://github.com/Chelle07) |
-| Reynaldi  | Secretary       | [@...](https://github.com/...) |                                                  
+| Reynaldi  | Secretary       | [@reynaldi-goh](https://github.com/reynaldi-goh) |                                                  
 | Winston  | Partnerships & Innovations Director        | [@winstonfaustin](https://github.com/winstonfaustin) |
 | Somya  | Deputy Partnerships & Innovations Director      | [@...](https://github.com/...) | 
 | Vanness  | Marketing Director      | [@Vanness1900](https://github.com/Vanness1900) |                                                  
