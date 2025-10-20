@@ -44,7 +44,6 @@ We're still cooking it. Stay tuned.
 | Michelle  | Vice President        | [@Chelle07](https://github.com/Chelle07) |
 | Reynaldi  | Secretary       | [@reynaldi-goh](https://github.com/reynaldi-goh) |                                                  
 | Winston  | Partnerships & Innovations Director        | [@winstonfaustin](https://github.com/winstonfaustin) |
-| Somya  | Deputy Partnerships & Innovations Director      | [@...](https://github.com/...) | 
 | Vanness  | Marketing Director      | [@Vanness1900](https://github.com/Vanness1900) |                                                  
 
 > _"At ITC, we don’t just learn tech — we grow, lead, and build together."_
