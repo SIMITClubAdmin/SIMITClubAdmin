@@ -39,7 +39,7 @@ We're still cooking it. Stay tuned.
 | Name        | Role               | GitHub                                           |
 |-------------|--------------------|--------------------------------------------------|
 | Desmond      | Technical Director          | [@desraymondz](https://github.com/desraymondz) |
-| Yan Mei          | Deputy Technical Director      | [@yxnmei](https://github.com/yxnmei) |
+| Yan Mei          | Technical Director      | [@yxnmei](https://github.com/yxnmei) |
 | Fukutaro  | President        | [@fukutarosie](https://github.com/fukutarosie) |
 | Michelle  | Vice President        | [@Chelle07](https://github.com/Chelle07) |
 | Reynaldi  | Secretary       | [@reynaldi-goh](https://github.com/reynaldi-goh) |                                                  
