@@ -38,13 +38,15 @@ We're still cooking it. Stay tuned.
 
 | Name        | Role               | GitHub                                           |
 |-------------|--------------------|--------------------------------------------------|
-| Desmond      | Technical Director          | [@desraymondz](https://github.com/desraymondz) |
-| Yan Mei          | Technical Director      | [@yxnmei](https://github.com/yxnmei) |
-| Fukutaro  | President        | [@fukutarosie](https://github.com/fukutarosie) |
-| Michelle  | Vice President        | [@Chelle07](https://github.com/Chelle07) |
-| Reynaldi  | Secretary       | [@reynaldi-goh](https://github.com/reynaldi-goh) |                                                  
-| Winston  | Partnerships & Innovations Director        | [@winstonfaustin](https://github.com/winstonfaustin) |
-| Vanness  | Marketing Director      | [@Vanness1900](https://github.com/Vanness1900) |                                                  
+| Alex      | President         | [@AlexBearBear0319](https://github.com/AlexBearBear0319) |
+| Moe          | Vice President      | [@moecrosoft](https://github.com/moecrosoft) |
+| Karthik  | Technical Director (External)        | [@19026606-Karthikeyan-Suresh](https://github.com/19026606-Karthikeyan-Suresh) |
+| Vicky  | Technical Director (Internal)        | [@vicky1234500](https://github.com/vicky1234500) |
+| Helen  | General Secretary       | [@lennpri](https://github.com/lennpri) |                                                  
+| Ameer  | Finance & Operations Secretary        | [@aeomantic](https://github.com/aeomantic) |
+| Kimberly  | Marketing Director (Creative & Design)     | [@WitchvonDunwich](https://github.com/WitchvonDunwich) |      
+| Hayun  | Marketing Director (Media & Comms)     | [@Vanness1900](https://github.com/Vanness1900) |   
+| Samar  | Partnership & Innovation Director      | [@Vanness1900](https://github.com/Vanness1900) |   
 
 > _"At ITC, we don’t just learn tech — we grow, lead, and build together."_
 
