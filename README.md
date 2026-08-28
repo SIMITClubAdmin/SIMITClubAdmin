@@ -45,8 +45,8 @@ We're still cooking it. Stay tuned.
 | Helen  | General Secretary       | [@lennpri](https://github.com/lennpri) |                                                  
 | Ameer  | Finance & Operations Secretary        | [@aeomantic](https://github.com/aeomantic) |
 | Kimberly  | Marketing Director (Creative & Design)     | [@WitchvonDunwich](https://github.com/WitchvonDunwich) |      
-| Hayun  | Marketing Director (Media & Comms)     | [@Vanness1900](https://github.com/Vanness1900) |   
-| Samar  | Partnership & Innovation Director      | [@Vanness1900](https://github.com/Vanness1900) |   
+| Hayun  | Marketing Director (Media & Comms)     | [@raccooj](https://github.com/raccooj) |   
+| Samar  | Partnership & Innovation Director      | [@ninja-tuna](https://github.com/ninja-tuna) |   
 
 > _"At ITC, we don’t just learn tech — we grow, lead, and build together."_
 
